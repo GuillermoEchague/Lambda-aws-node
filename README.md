@@ -10,21 +10,21 @@
 
 ## Desarrollo en Lambda
 
-![](img/imagen1.png)
+![](img/Imagen1.png)
 
 
 ### DynamoDB
 
-![](img/imagen2.png)
+![](img/Imagen2.png)
 
 ### Reglas de IAM para serverless-api
 
-![](img/imagen3.png)
+![](img/Imagen3.png)
 
 ### Desarrollo del API Gateway
 
-![](img/imagen4.png)
+![](img/Imagen4.png)
 
 ### Petición POST al cliente por medio de Postman
 
-![](img/imagen5.png)
+![](img/Imagen5.png)
